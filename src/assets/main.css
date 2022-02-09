@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+* {
+    font-family: "Ubuntu";
+}
+
+.form-weahter {
+    border: none;
+    padding-left: 2rem;
+    background-color: transparent;
+    color: #ffffff;
+    border-bottom: 2px solid white;
+  }
+
+  .form-weahter:focus {
+    box-shadow: unset;
+    outline: none;
+    color: #ffffff;
+    background-color: unset;
+    border-color: unset;
+    border-bottom: 2px solid #f55916;
+  }
+
+  .form-weahter::placeholder {
+    color: #ffffff;
+  }
