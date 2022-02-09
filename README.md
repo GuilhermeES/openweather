@@ -1,5 +1,10 @@
 # openweather-test
 
+## Informações extra
+Projeto simples consumindo API da OpenWeathermap. <br>
+Utilizei VueJS, e para fazer o grid Bootstrap Vue.
+
+
 ## Project setup
 ```
 npm install
